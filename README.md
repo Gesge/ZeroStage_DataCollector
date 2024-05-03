@@ -1,2 +1,7 @@
 # ZeroStage_DataCollector
-产品：AB数据采集器 功能：Dealflow项目基本数据采集 公司：Zerostage
+
+脚本名称：DataCollector
+脚本功能：采集 Dealflow 基础数据
+数据采集范围：Twitter,TwitterScore,SimilarWeb,Telegram,Discord
+公司：Zerostage
+作者：Tulem
