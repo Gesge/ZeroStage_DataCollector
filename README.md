@@ -9,5 +9,12 @@
 - 功能开发：👨‍💻 [He](https://github.com/woshiwjkdeyeye)
 > Document
 - 设计文档：[PRD - Data Collector](https://docs.google.com/document/d/1jgSWQTfaZ112U1yCC2lCpTPZiNtb7xjW1gg-l9qT4-M/edit?usp=sharing,"设计说明书")
+> Module
+1. Twitter
+2. TwitterScore
+3. SimilarWeb
+4. Telegram
+5. Discord
+> Tutorial
 
 
