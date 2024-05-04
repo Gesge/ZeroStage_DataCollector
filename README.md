@@ -7,7 +7,7 @@
 - 解决痛点：😍 用不到 10s 的时间采集完手动需要 20min 的搜集任务
 > Team
 - 产品设计：🤵 [Tulem](https://twitter.com/Tulem_eth)
-- 功能开发：👨‍💻 [He](https://github.com/woshiwjkdeyeye)
+- 功能开发：👨‍💻 [He](https://github.com/woshiwjkdeyeye) + 🤵 [Gesge](https://github.com/Gesge)
 > Document
 - 设计文档：[PRD - Data Collector](https://docs.google.com/document/d/1jgSWQTfaZ112U1yCC2lCpTPZiNtb7xjW1gg-l9qT4-M/edit?usp=sharing,"设计说明书")
 > Module
