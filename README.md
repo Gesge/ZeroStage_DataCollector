@@ -24,5 +24,5 @@
 
 ![1714833929457](https://github.com/Gesge/ZeroStage_DataCollector/assets/88234771/cb439240-4c74-43c2-aa96-3ac7dd556d8b)
 
-- Return1：
+- Return：
 
