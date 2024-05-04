@@ -4,6 +4,7 @@
 - 当前版本：📍 V2
 - 脚本功能：📊 采集 Dealflow 基础数据
 - 采集范围：🔍 Twitter TwitterScore SimilarWeb Telegram Discord
+- 解决痛点：😍 用不到 10s 的时间采集完手动需要 20min 的搜集任务
 > Team
 - 产品设计：🤵 [Tulem](https://twitter.com/Tulem_eth)
 - 功能开发：👨‍💻 [He](https://github.com/woshiwjkdeyeye)
@@ -22,7 +23,9 @@
 * step3: 输入要查询项目的 **Telegram** 网址
 * step4: 输入要查询项目的 **Discord** 网址
 
-✨✨ ![1714833929457](https://github.com/Gesge/ZeroStage_DataCollector/assets/88234771/cb439240-4c74-43c2-aa96-3ac7dd556d8b)
+- Input：
+✨ ![1714833929457](https://github.com/Gesge/ZeroStage_DataCollector/assets/88234771/cb439240-4c74-43c2-aa96-3ac7dd556d8b)
 
-- Return：
+- Output：
+✨ ![1714834981513](https://github.com/Gesge/ZeroStage_DataCollector/assets/88234771/487f666b-e448-4f4b-81c2-9c87a0c94a8d)
 
