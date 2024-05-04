@@ -1,7 +1,7 @@
 # ZeroStage_DataCollector
 > Product
 - 产品名称：⚙ ZS_DataCollector
-- 开发版本：📍 V2
+- 当前版本：📍 V2
 - 脚本功能：📊 采集 Dealflow 基础数据
 - 采集范围：🔍 Twitter TwitterScore SimilarWeb Telegram Discord
 > Team
