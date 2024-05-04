@@ -10,11 +10,11 @@
 > Document
 - 设计文档：[PRD - Data Collector](https://docs.google.com/document/d/1jgSWQTfaZ112U1yCC2lCpTPZiNtb7xjW1gg-l9qT4-M/edit?usp=sharing,"设计说明书")
 > Module
-1. Twitter
-2. TwitterScore
-3. SimilarWeb
-4. Telegram
-5. Discord
+1. Twitter - [x]
+2. TwitterScore - [x]
+3. SimilarWeb - [x]
+4. Telegram - [x]
+5. Discord - [x]
 > Tutorial
 - 我们以 Tulem 曾经做过的一个A类项目 PublicAI 为例：[PublicAI](https://docs.google.com/spreadsheets/d/1LKTF56h5Op9zgrk0X5jESW8WGcMUotluwZFxtZpvhIM/edit#gid=1088484738)
 * step1: 输入要查询项目的 **Twitter** 网址
