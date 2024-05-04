@@ -21,8 +21,8 @@
 * step2: 输入要查询项目的 <b>官网<b> 网址
 * step3: 输入要查询项目的 <b>Telegram<b> 网址
 * step4: 输入要查询项目的 <b>Discord<b> 网址
-<br>
+
 ![1714833929457](https://github.com/Gesge/ZeroStage_DataCollector/assets/88234771/cb439240-4c74-43c2-aa96-3ac7dd556d8b)
-<br>
+
 - Return1：
 
