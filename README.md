@@ -17,10 +17,10 @@
 5. Discord
 > Tutorial
 - 我们以 Tulem 曾经做过的一个A类项目 PublicAI 为例：[PublicAI](https://docs.google.com/spreadsheets/d/1LKTF56h5Op9zgrk0X5jESW8WGcMUotluwZFxtZpvhIM/edit#gid=1088484738)
-* step1: 输入要查询项目的 ==Twitter== 网址
-* step2: 输入要查询项目的 ==官网== 网址
-* step3: 输入要查询项目的 ==Telegram== 网址
-* step4: 输入要查询项目的 ==Discord== 网址
+* step1: 输入要查询项目的 == Twitte r== 网址
+* step2: 输入要查询项目的 == 官网 == 网址
+* step3: 输入要查询项目的 == Telegram == 网址
+* step4: 输入要查询项目的 == Discord == 网址
 
 ![1714833929457](https://github.com/Gesge/ZeroStage_DataCollector/assets/88234771/cb439240-4c74-43c2-aa96-3ac7dd556d8b)
 
