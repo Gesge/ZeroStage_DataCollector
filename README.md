@@ -11,11 +11,11 @@
 > Document
 - 设计文档：[PRD - Data Collector](https://docs.google.com/document/d/1jgSWQTfaZ112U1yCC2lCpTPZiNtb7xjW1gg-l9qT4-M/edit?usp=sharing,"设计说明书")
 > Module
--[x]Twitter
-- [x]TwitterScore
-- [x]SimilarWeb
-- [x]Telegram
-- [x]Discord
+💛 Twitter
+💗 TwitterScore
+💙 SimilarWeb
+💚 Telegram
+🧡 Discord
 > Tutorial
 - 我们以 Tulem 曾经做过的一个A类项目 PublicAI 为例：[PublicAI](https://docs.google.com/spreadsheets/d/1LKTF56h5Op9zgrk0X5jESW8WGcMUotluwZFxtZpvhIM/edit#gid=1088484738)
 * step1: 输入要查询项目的 **Twitter** 网址
@@ -25,9 +25,9 @@
 
 - Input：
 
-✨ ![1714833929457](https://github.com/Gesge/ZeroStage_DataCollector/assets/88234771/cb439240-4c74-43c2-aa96-3ac7dd556d8b)
+![1714833929457](https://github.com/Gesge/ZeroStage_DataCollector/assets/88234771/cb439240-4c74-43c2-aa96-3ac7dd556d8b)
 
 - Output：
 
-✨ ![1714834981513](https://github.com/Gesge/ZeroStage_DataCollector/assets/88234771/487f666b-e448-4f4b-81c2-9c87a0c94a8d)
+![1714834981513](https://github.com/Gesge/ZeroStage_DataCollector/assets/88234771/487f666b-e448-4f4b-81c2-9c87a0c94a8d)
 
