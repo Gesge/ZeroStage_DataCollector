@@ -1,6 +1,6 @@
 # ZeroStage_DataCollector
 - 产品名称：⚙ DataCollector
-- 开发版本：📍 V2 ![Language](https://img.shields.io/badge/language-python-brightgreen)
+- 开发版本：📍 V2
 - 脚本功能：📊 采集 Dealflow 基础数据
 - 数据采集范围：🔍 Twitter TwitterScore SimilarWeb Telegram Discord
 ---
