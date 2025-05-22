@@ -1,4 +1,4 @@
-# ZeroStage_DataCollector
+# ZS_DataCollector
 > Product
 - 产品名称：⚙ ZS_DataCollector
 - 当前版本：📍 V2
